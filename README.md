@@ -18,7 +18,7 @@
 <p align="left">
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/annrobles/)](https://github.com/annrobles/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/floreceann/)](https://www.linkedin.com/in/floreceann/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florece-robles/)](https://www.linkedin.com/in/florece-robles/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annr.dev@gmail.com)](mailto:annr.dev@gmail.com)
 </p>
 <br>
